@@ -1341,3 +1341,13 @@ a {
 	left: -29px;
 	position: relative;
 }
+.jdzb-box>div{
+	width:390px;
+	height: 425px;
+	background: #FFF;
+	margin:0 10px 30px 0;
+	float: left;
+}
+.jdzb-box div:nth-child(3){
+	margin-right: 0;
+}
